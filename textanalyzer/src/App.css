@@ -1,0 +1,9 @@
+.App{
+  display: flex;
+}
+.HeaderWrapper{
+  height: 50px;
+}
+.content{
+  height: vh;
+}

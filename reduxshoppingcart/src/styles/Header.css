@@ -1,0 +1,19 @@
+.pageWrapper{
+    box-sizing: border-box;
+    display : flex;
+    flex-direction: column;
+}
+.headerWrapper{
+    height: 100px;
+    width: 100%;
+    background-color: #aabbff;
+    display: flex;
+    
+}
+.headerrow{
+    width: 25%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    align-content: space-between;
+}

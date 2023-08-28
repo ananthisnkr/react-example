@@ -1,0 +1,9 @@
+.CartTable{
+    width:100%;
+    display: flex;
+}
+.CartRow{ 
+    width: 20%;
+
+}
+
